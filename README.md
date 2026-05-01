@@ -2,7 +2,10 @@
 <div align="center">
 
 # 🧬 Geo-Genomic ML Framework  
-### 🌍 Climate-Resilient Crop Engineering  
+### 🌍 Climate-Resilient Crop Engineering  <img width="1983" height="793" alt="7a1ba939-477f-4704-8f30-75860491f85e" src="https://github.com/user-attachments/assets/9f9f9880-fd11-4fab-b5f1-4bc1f15cd4ca" />
+<img width="1983" height="793" alt="7a1ba939-477f-4704-8f30-75860491f85e" src="https://github.com/user-attachments/assets/26a8a6e0-26e8-40ad-91cc-647d2a63a66f" />
+![Uploading 7a1ba939-477f-4704-8f30-75860491f85e.png…]()
+
 
 <img src="https://img.shields.io/badge/Field-Genomics-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Field-GeoSpatial-green?style=for-the-badge"/>
